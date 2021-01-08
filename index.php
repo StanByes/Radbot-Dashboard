@@ -6,14 +6,13 @@
     <title>Welcome - RadBOT</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <link rel='stylesheet' type='text/css' media='screen' href='./css/style.css'>
-    <script src='./js/index.js'></script>
+    <script src='./js/main.js'></script>
 </head>
 <body>
     <!--Welcome-->
     <div class="main" id="welcome">
-        <h1 class="main" id="t-welcome">Bienvenue sur le site officiel de RadBOT</h1>
-        <p id="p-welcome">Je suis un bot musique basé sur les WebRadio avec option SoundBoard je peut aussi vous faire profiter de musique venant de Youtube ajoute-moi : <a href="./">Clique ici</a></p>
-
+        <h1 class="main" id="h-main">Welcome On RadBot DashBoard</h1>
+        <p class="main" id="p-desc"></p>>
     </div>
 </body>
 </html>
